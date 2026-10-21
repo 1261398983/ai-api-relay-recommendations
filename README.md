@@ -66,9 +66,9 @@
 - 群主天天在群里，炸了找得到人、修得也快——在中转圈，这比便宜难能可贵
 - 适合：新手、怕跑路、要售后的
 
-### 7️⃣ DSH API —— 官方价 8% 的国模分组，双协议同一个域名
+### 7️⃣ 97wl —— 官方价 8% 的国模分组，双协议同一个域名
 
-**入口**：https://api.dshapi.icu/r/T8KiaeGU
+**入口**：https://api.97wl.cc/r/T8KiaeGU
 
 - 国模分组 **0.08x**（官网价的 8%），这是目前见过最低的一档倍率；open ai pro 分组 0.22x
 - 同一个 base URL 同时支持 OpenAI（`/v1/chat/completions`、`/v1/responses`）和 **Anthropic**（`/v1/messages`）两套协议
