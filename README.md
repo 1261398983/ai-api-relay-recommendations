@@ -9,9 +9,9 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> **[RELAY X](https://api.97wl.cc/)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
+> **[RELAY X](https://api.97wl.cc/register)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
 > 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
-> [[CC] 改两行环境变量即可接入 →](https://api.97wl.cc/)
+> [[CC] 改两行环境变量即可接入 →](https://api.97wl.cc/register)
 
 
 中转站 = AI API 的分销商：转卖 OpenAI / Anthropic / Google / DeepSeek 等接口，给你一个 OpenAI 兼容的 `base_url + sk-key`，按 **官价 × 分组倍率** 计费，通常只要官价的 1~3 折。便宜是真能便宜，但渠道质量鱼龙混杂，所以这篇帖子按场景帮你筛一筛。
@@ -194,7 +194,7 @@ export ANTHROPIC_AUTH_TOKEN=sk-你的key
 
 ### 关于本站作者使用的中转站
 
-本站整理的中转站里，我长期自用的是 **[RELAY X](https://api.97wl.cc/)**：
+本站整理的中转站里，我长期自用的是 **[RELAY X](https://api.97wl.cc/register)**：
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
 - **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
@@ -212,5 +212,5 @@ export ANTHROPIC_AUTH_TOKEN=sk-你的key
 
 [中文 AI 工具](https://1261398983.github.io/awesome-chinese-ai-tools/) · [API 中转清单](https://1261398983.github.io/awesome-ai-api-relay/) · [免费模型链接](https://1261398983.github.io/free-model-links/) · [配置指南](https://1261398983.github.io/ai-api-guide/) · [Coding 福利导航](https://1261398983.github.io/ai-coding-welfare/)
 
-**[RELAY X 中转站](https://api.97wl.cc/)** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
+**[RELAY X 中转站](https://api.97wl.cc/register)** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
 
