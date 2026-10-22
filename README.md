@@ -206,3 +206,11 @@ export ANTHROPIC_AUTH_TOKEN=sk-你的key
 
 > 说明：个人部署的第三方 API 转发服务，非上游厂商官方产品。建议按实际用量充值，避免一次性大额预付；重要业务请自备备份线路。
 
+---
+
+### 同类站点
+
+[中文 AI 工具](https://1261398983.github.io/awesome-chinese-ai-tools/) · [API 中转清单](https://1261398983.github.io/awesome-ai-api-relay/) · [免费模型链接](https://1261398983.github.io/free-model-links/) · [配置指南](https://1261398983.github.io/ai-api-guide/) · [Coding 福利导航](https://1261398983.github.io/ai-coding-welfare/)
+
+**[RELAY X 中转站](https://api.97wl.cc/)** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
+
