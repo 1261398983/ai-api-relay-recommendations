@@ -9,9 +9,7 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> **[Sample Gateway]()** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
 > 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
-> [[CC] 改两行环境变量即可接入 →]()
 
 
 中转站 = AI API 的分销商：转卖 OpenAI / Anthropic / Google / DeepSeek 等接口，给你一个 OpenAI 兼容的 `base_url + sk-key`，按 **官价 × 分组倍率** 计费，通常只要官价的 1~3 折。便宜是真能便宜，但渠道质量鱼龙混杂，所以这篇帖子按场景帮你筛一筛。
@@ -74,9 +72,7 @@
 - 群主天天在群里，炸了找得到人、修得也快——在中转圈，这比便宜难能可贵
 - 适合：新手、怕跑路、要售后的
 
-### 7️⃣ removed —— 官方价 8% 的国模分组，双协议同一个域名
 
-**入口**：https://your-endpoint.example.com/
 
 - 国模分组 **0.08x**（官网价的 8%），这是目前见过最低的一档倍率；open ai pro 分组 0.22x
 - 同一个 base URL 同时支持 OpenAI（`/v1/chat/completions`、`/v1/responses`）和 **Anthropic**（`/v1/messages`）两套协议
@@ -194,7 +190,6 @@ export ANTHROPIC_AUTH_TOKEN=sk-你的key
 
 ### 关于本站作者使用的中转站
 
-本站整理的中转站里，我长期自用的是 **[Sample Gateway]()**：
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
 - **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
@@ -202,7 +197,6 @@ export ANTHROPIC_AUTH_TOKEN=sk-你的key
 - **可审计** — 基于开源 Sub2API 面板，每笔调用扣费可明细查询
 - **起充低** — 人民币 10 元起，可以先小额试
 
-👉 **https://your-endpoint.example.com/**
 
 > 说明：个人部署的第三方 API 转发服务，非上游厂商官方产品。建议按实际用量充值，避免一次性大额预付；重要业务请自备备份线路。
 
@@ -212,7 +206,6 @@ export ANTHROPIC_AUTH_TOKEN=sk-你的key
 
 [中文 AI 工具](https://1261398983.github.io/awesome-chinese-ai-tools/) · [API 中转清单](https://1261398983.github.io/awesome-ai-api-relay/) · [免费模型链接](https://1261398983.github.io/free-model-links/) · [配置指南](https://1261398983.github.io/ai-api-guide/) · [Coding 福利导航](https://1261398983.github.io/ai-coding-welfare/)
 
-**[Sample Gateway 中转站]()** — QQ 邮箱注册 · 按量计费 · 输入输出分开计价
 
 ---
 
